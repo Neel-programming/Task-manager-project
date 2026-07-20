@@ -1,0 +1,4 @@
+task_manager
+task_manager.exe
+*.o
+tasks.txt
